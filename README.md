@@ -1,4 +1,4 @@
-# <a href="https://siddtiwari25.github.io/siddharth_tiwari.github.io/#home" target="_blank">My Portfolio</a>
+# <a href="https://siddtiwari25.github.io/siddharth_tiwari.github.io/" target="_blank">My Portfolio</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg (https://github.com/Siddtiwari25/siddharth_tiwari.github.io)
@@ -19,13 +19,6 @@
 ✔️ Projects\
 ✔️ Contact me
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- ⚠️ Remove my Bitmoji <img src="https://github.com" width="20px"> from the navbar/footer and use yours instead.⚠️
-- Add or remove images from `https://www.vinodjangid.me/src/` directory as per your requirement.
-- ⚠️<b>NOTE:</b> Make sure to remove `analyticsId` & `google search console Id` from `<head>` tag, and set yours, if you want to use your own Google Analytics & search console account.⚠️
-
-
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
@@ -35,4 +28,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE)
 * [<b>Animista</b>](https://animista.net/) - To use Interactive animations
 
 
-Please contact me at infovinodjangid@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
+Please contact me at tilak512786@gmail.com if you have any feedback for the website. :star: Star it, if you like it!
